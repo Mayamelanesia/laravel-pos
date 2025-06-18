@@ -1,4 +1,11 @@
-#Nama : Maya Melanesia Rumasukun
+## Nama : Maya Melanesia Rumasukun
+    Nim : 2241720237
+    kelas: TI-3D
+
+
+
+
+
 
 
 <p align="center">
